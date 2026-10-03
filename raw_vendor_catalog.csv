@@ -1,0 +1,8 @@
+﻿product_sku,product_name,category_id,vendor_id,unit_cost_price,unit_selling_price
+SKU-TECH-101,  ultra thin mechanical keyboard ,CAT-TECH,VEND-01,2400.00,3200.00
+SKU-TECH-101,ultra thin mechanical keyboard,CAT-TECH,VEND-01,2400.00,3200.00
+SKU-OFF-205,ergonomic mesh office chair,CAT-FURN,VEND-02,5200.50,4800.00
+SKU-AUDIO-303,NOISE CANCELLING HEADPHONES,CAT-TECH,VEND-01,3100.00,4500.00
+SKU-DSK-404,adjustable standing desk 120cm,CAT-FURN,VEND-02,11000.00,14999.00
+SKU-ACC-505,usb-c braided cable 2m,CAT-TECH,VEND-03,,350.00
+SKU-ACC-606,wireless vertical mouse,CAT-TECH,VEND-03,1100.00,1650.00

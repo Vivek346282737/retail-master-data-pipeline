@@ -1,0 +1,3 @@
+entity,key,issue,timestamp
+product_master,SKU-TECH-101,DUPLICATE_SKU_DROPPED,2026-10-03T08:26:28.451086
+product_master,SKU-OFF-205,NEGATIVE_MARGIN: Cost=5200.5 > Sell=4800.0,2026-10-03T08:26:28.451086
